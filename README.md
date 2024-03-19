@@ -24,7 +24,8 @@ List the ready features here:
 - Bezier Curve with Divide and Conquer Algorithm
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![image](https://github.com/muhhul/Tucil2_13522143/assets/114352106/757b506b-8649-491f-ba1e-ca8099ca42e5)
+![image](https://github.com/muhhul/Tucil2_13522143/assets/114352106/7d511c4f-05f7-43e6-a20d-4ad840b03f46)
 
 ## Setup
 ### Dependencies
